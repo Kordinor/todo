@@ -1,0 +1,16 @@
+.App-content{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+}
+header{
+    background-color: #ef9273;
+    color: #0d0d0d;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+}
